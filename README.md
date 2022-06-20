@@ -6,10 +6,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anupamdwivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anupam--dwivedi/)](https://www.linkedin.com/in/anupam--dwivedi/)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupam-2105&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupam-2105&theme=dracula&hide_border=true)
 
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupam-2105&show_icons=true&theme=highcontrast&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="anupam-2105" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anupam-2105&show_icons=true&ttheme=highcontrast&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="anupam-2105" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-2105&theme=highcontrast&hide_border=true" alt="anupam-2105" /> </p>
+## Stats📈
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupam-2105&show_icons=true&theme=dark&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="anupam-2105" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anupam-2105&show_icons=true&ttheme=dark&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="anupam-2105" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-2105&theme=highcontrast&hide_border=true" alt="anupam-2105" /> </p>
 
 
 <!--START_SECTION:activity-->
