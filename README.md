@@ -10,3 +10,19 @@
 
 
 ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupam-2105&show_icons=true&theme=highcontrast&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="anupam-2105" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anupam-2105&show_icons=true&ttheme=highcontrast&hide_border=true&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="anupam-2105" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-2105&theme=highcontrast&hide_border=true" alt="anupam-2105" /> </p>
+
+
+name: Update README
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
