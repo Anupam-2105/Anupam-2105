@@ -4,4 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anupamdwivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/anupam--dwivedi/)
+[![Linkedin Badge](https://img.shields.io/badge/-anupamdwivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anupam--dwivedi/)](https://www.linkedin.com/in/anupam--dwivedi/)
+
+replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupam-2105&theme=dracula&hide_border=true)
