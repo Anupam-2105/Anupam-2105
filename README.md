@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anupamdwivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anupam--dwivedi/)](https://www.linkedin.com/in/anupam--dwivedi/)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahbaz42&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupam-2105&theme=dracula&hide_border=true)
 
 
 ## Stats📈
