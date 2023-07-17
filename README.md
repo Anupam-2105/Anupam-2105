@@ -3,8 +3,6 @@
 
 ## Tech Stack ✔️
 
-I am always looking to learn new technologies, my current favourites include
-
 ![skills](https://skillicons.dev/icons?i=c,cpp,js)
 
 ![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
